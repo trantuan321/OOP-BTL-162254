@@ -1,0 +1,20 @@
+BOOK,B001,How to Procrastinate Like a Pro,Dr. Later Gator,978-0999999901,LazyPress,2023,4
+BOOK,B002,The Art of Napping at Work,Sleepy McSleeperson,978-0999999902,SnoozeBooks,2022,3
+BOOK,B003,Coffee: The Ultimate Survival Guide,Caffeine Addict,978-0999999903,BrewedAwake,2021,7
+BOOK,B004,Why My Cat Is My Boss,Whiskers Meowington,978-0999999904,FelinePublishing,2023,4
+BOOK,B005,Surviving Monday Mornings,Grumpy McMonday,978-0999999905,WeekendWarrior,2022,6
+BOOK,B006,The Infinite Scroll Theory,Scrolly McLikes,978-0999999906,DigitalDistraction,2023,2
+BOOK,B007,Cooking for People Who Hate Cooking,Burny McBurnt,978-0999999907,TakeoutLover,2021,5
+BOOK,B008,101 Excuses for Being Late,Tardy Tim,978-0999999908,FashionablyLate,2023,8
+BOOK,B009,The Joy of Doing Nothing,Lazy Bones,978-0999999909,RelaxCorp,2022,3
+BOOK,B010,How to Lose Your Phone in 5 Minutes,Forgetty McGee,978-0999999910,DistractedInc,2023,4
+MAGAZINE,MG001,Cat Monthly,101,Feline Lifestyle,2024,12
+MAGAZINE,MG002,Coffee Enthusiast,45,Beverage Culture,2024,15
+MAGAZINE,MG003,Procrastination Weekly,23,Productivity (Not),2024,8
+MAGAZINE,MG004,Memes Today,67,Internet Culture,2024,20
+MAGAZINE,MG005,Home Office Decor,34,Remote Work Life,2024,10
+MAGAZINE,MG006,Pizza Lovers,89,Food & Fun,2024,18
+MAGAZINE,MG007,Gaming & Snacks,56,Entertainment,2024,14
+MAGAZINE,MG008,Netflix Binging Guide,78,Streaming Culture,2024,9
+MAGAZINE,MG009,Social Media Trends,92,Digital Life,2024,11
+MAGAZINE,MG010,Dad Jokes Quarterly,33,Humor,2024,25

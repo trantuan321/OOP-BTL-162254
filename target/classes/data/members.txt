@@ -1,0 +1,15 @@
+M001,Bookworm Betty,betty@library.com,555-0101,true,2025-12-27
+M002,Page Turner Pete,pete@library.com,555-0102,true,2025-12-27
+M003,Chapter Charlie,charlie@library.com,555-0103,true,2025-12-27
+M004,Novel Nancy,nancy@library.com,555-0104,true,2025-12-27
+M005,Literary Larry,larry@library.com,555-0105,true,2025-12-27
+M006,Reading Rachel,rachel@library.com,555-0106,true,2025-12-27
+M007,Story Sam,sam@library.com,555-0107,false,2025-12-27
+M008,Prose Paula,paula@library.com,555-0108,true,2025-12-27
+M009,Bibliophile Ben,ben@library.com,555-0109,true,2025-12-27
+M010,Volume Vivian,vivian@library.com,555-0110,true,2025-12-27
+M011,Sleepy Simon,simon@library.com,555-0111,true,2025-12-27
+M012,Coffee Carl,carl@library.com,555-0112,true,2025-12-27
+M013,Procrastinating Paul,paul@library.com,555-0113,true,2025-12-27
+M014,Snacky Sarah,sarah@library.com,555-0114,true,2025-12-27
+M015,Netflix Nora,nora@library.com,555-0115,true,2025-12-27
